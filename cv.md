@@ -44,3 +44,19 @@ box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.06);
 ```
 
 ---
+
+### Education:
+
+- Basics of HTML and CSS on [CodeBasics](https://code-basics.com/) \- done<br>
+- Responsive Web Desing Cetrification on [freeCodeCamp](https://www.freecodecamp.org/learn/) \- in progress<br>
+- Basics of HTML and CSS on [Udemy](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) \- in progress<br>
+- JavaScript Course on [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) \- in progress<br>
+- RS Schools Course «JavaScript/Front-end. Stage 0» \- in progress<br>
+
+---
+
+### Languages
+
+- **English** \- Upper-intermediate. Regular English practice (twice a week) in Skyeng, self-education \- everyday.
+- **Russian** \- Native
+- **Uzbek** \- Basic
