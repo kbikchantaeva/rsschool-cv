@@ -3,7 +3,6 @@
 ### Contact information
 
 **Country of residence:** Uzbekistan
-
 **Phone:** +998331555918<br>
 **E-mail:** kira.bikchantaeva@gmail.com<br>
 **Telegram:** [@kbikchantaeva](https://t.me/kbikchantaeva)<br>
