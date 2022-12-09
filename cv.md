@@ -19,8 +19,10 @@ I'm good at self-education, communication, and goal-gaining.
 
 ### Skills
 
-- HTML5, CSS3
-- Git, GutHub
+- HTML5
+- CSS3
+- Git
+- GutHub
 - VS Code
 - Figma
 
@@ -46,11 +48,17 @@ box-shadow: 0 3.2rem 6.4rem rgba(0, 0, 0, 0.06);
 
 ### Education:
 
-- Basics of HTML and CSS on [CodeBasics](https://code-basics.com/) \- done<br>
-- Responsive Web Desing Cetrification on [freeCodeCamp](https://www.freecodecamp.org/learn/) \- in progress<br>
-- Basics of HTML and CSS on [Udemy](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) \- in progress<br>
-- JavaScript Course on [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) \- in progress<br>
-- RS Schools Course «JavaScript/Front-end. Stage 0» \- in progress<br>
+- **November 2022** Basics of HTML and CSS on [CodeBasics](https://code-basics.com/) \- done<br>
+- **November 2022** Responsive Web Desing Cetrification on [freeCodeCamp](https://www.freecodecamp.org/learn/) \- in progress (60%)<br>
+- **November 2022** Basics of HTML and CSS on [Udemy](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) \- in progress (80%)<br>
+- **December 2022** JavaScript Course on [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) \- start<br>
+- **December 2022** RS Schools Course «JavaScript/Front-end. Stage 0» \- in progress (2%)<br>
+
+---
+
+### Projects:
+
+- [Omnifood](https://kbikchantaeva.github.io/omnifood/) project for [Basics of HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) course<br>
 
 ---
 
