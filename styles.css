@@ -38,10 +38,6 @@ strong {
   grid-template-columns: 20fr 80fr;
 }
 
-.grid--gap-lg {
-  gap: 10rem;
-}
-
 .grid--gap-md {
   gap: 8rem;
 }
@@ -71,7 +67,7 @@ strong {
   border-bottom: 0.5px solid transparent;
 }
 
-.header-primary {
+.heading-primary {
   font-size: 2.4rem;
   text-transform: uppercase;
   letter-spacing: 3px;
@@ -81,7 +77,7 @@ strong {
   font-size: 1.2rem;
 }
 
-.header-secondary {
+.heading-secondary {
   font-size: 2rem;
   text-transform: uppercase;
   font-weight: 300;
@@ -89,9 +85,6 @@ strong {
 }
 
 /* NAVIGATION */
-
-.header {
-}
 
 .navigation {
   width: 100vw;
@@ -120,7 +113,7 @@ strong {
 }
 
 .user-pic {
-  width: 100%;
+  width: 15.5rem;
   border-radius: 50%;
   margin-left: 7rem;
 }
@@ -143,7 +136,7 @@ strong {
   gap: 2rem;
   justify-content: flex-start;
   align-items: center;
-  margin-bottom: 1rem;
+  margin-bottom: 0.7rem;
 }
 
 .contact-icon {
@@ -226,8 +219,7 @@ strong {
 /* LANGUAGES SECTION */
 
 .language {
-  line-height: 1.4;
-  margin-bottom: 0.7rem;
+  line-height: 1.5;
 }
 
 /* EDUCATION SECTION */
@@ -238,6 +230,11 @@ strong {
 
 .school:last-child {
   margin-bottom: 0;
+}
+
+.course_date {
+  text-transform: uppercase;
+  font-size: 1.3rem;
 }
 
 .course-name {
@@ -268,6 +265,11 @@ code {
   align-items: center;
   justify-content: center;
   gap: 2rem;
+}
+
+.footer .link:link,
+.footer .link:visited {
+  text-decoration: none;
 }
 
 .footer-icon {
